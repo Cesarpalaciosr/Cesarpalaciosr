@@ -3,6 +3,7 @@
 </p>
 <hr>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 <!--
 **Cesarpalaciosr/Cesarpalaciosr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,7 +30,8 @@ When I'm not coding, you'll find me enjoying a good cup of coffee ☕, solving S
 🟨🟦🟥
 </div>
 
-
+</br>
+</br>
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Backend 👨🏻‍💻</h2></summary>
