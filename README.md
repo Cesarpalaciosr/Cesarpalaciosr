@@ -1,7 +1,8 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=2000&size=33&color=042D5E&width=470&height=100&lines=Hi, I'm+Cesar Palacios+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
-
+<hr>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <!--
 **Cesarpalaciosr/Cesarpalaciosr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -117,10 +118,9 @@ When I'm not coding, you'll find me enjoying a good cup of coffee ☕, solving S
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
+<hr>
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Cesarpalaciosr&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarpalaciosr&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</a>
+
 </div>
