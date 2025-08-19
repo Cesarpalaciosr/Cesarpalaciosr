@@ -36,15 +36,15 @@ When I'm not coding, you'll find me enjoying a good cup of coffee ☕, solving S
 ### Backend <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" height= 40px>  </picture> 
 
 <p align="left">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=plastic&    logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic& logo=javascript&logoColor=F7DF1E"/>
-    <img src="https://img.shields.io/badge/Express.js-000000?style=plastic& logo=express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&   logo=firebase&logoColor=black"/>
-    <img src="https://img.shields.io/badge/NGINX-009639?style=plastic&  logo=nginx&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&  logo=linux&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&    logo=postman&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=plastic& logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Gradle-02303A?style=plastic& logo=gradle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black"/>
+    <img src="https://img.shields.io/badge/NGINX-009639?style=plastic&logo=nginx&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=plastic&logo=gradle&logoColor=white"/>
     <img src="https://img.shields.io/badge/Keycloak-4D4D4D?logo=keycloak&logoColor=3662a8&style=plastic"/>
 </p>
 
